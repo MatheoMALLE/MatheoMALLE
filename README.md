@@ -1,4 +1,5 @@
-# Hello there 👋
+## Hello there 👋
+As a first-year engineering student at CY Tech, I'm specialising in computer engineering with a passion for intelligent systems, programming and solving complex problems. Through my projects and academic experience, I'm developing key skills in software development, IT security and algorithms.
 
 ### 🧰 My Skills
 ![Python](https://img.shields.io/badge/Python-b0f2b6?style=for-the-badge&logo=python)&nbsp;
