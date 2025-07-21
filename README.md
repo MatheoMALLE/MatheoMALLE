@@ -21,5 +21,5 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 
 ### 📫 How to reach me
 <p align="center">
-<a href="https://www.linkedin.com/in/math%C3%A9o-malle-1194a1371/"> <img height="30" src="https://github.com/MatheoMALLE/MatheoMALLE/blob/main/picture/linkedin.png"></a> &nbsp;
+<a href="https://www.linkedin.com/in/math%C3%A9o-malle/"> <img height="30" src="https://github.com/MatheoMALLE/MatheoMALLE/blob/main/picture/linkedin.png"></a> &nbsp;
 </p>
