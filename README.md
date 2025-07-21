@@ -24,5 +24,5 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 <a href="https://www.linkedin.com/in/math%C3%A9o-malle-1194a1371/"> <img height="30" src="https://github.com/MatheoMALLE/MatheoMALLE/blob/main/picture/linkedin.png"></a> &nbsp;
 <a href="mailto:matheo.malle@gmail.com"><img height="24" src="https://github.com/MatheoMALLE/MatheoMALLE/blob/main/picture/mail.png"></a>
 
-[<img height="24" src="https://github.com/MatheoMALLE/MatheoMALLE/blob/main/picture/mail.png">](mailto:matheo.malle@gmail.com)
+[<img height="24" src="https://raw.githubusercontent.com/MatheoMALLE/MatheoMALLE/blob/main/picture/mail.png">](mailto:matheo.malle@gmail.com)
 </p>
