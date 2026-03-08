@@ -18,15 +18,8 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 ![apache](https://img.shields.io/badge/apache-b0f2b6?style=for-the-badge&logo=apache)&nbsp;
 
 ### ⚙️ Github statistic
-![MatheoMALLE's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MatheoMALLE&show_icons=true&icon_color=0077B5&title_color=0077B5&text_color=333&bg_color=b0f2b6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheoMALLE&layout=compact&title_color=0077B5&text_color=333&bg_color=b0f2b6)
-
 ![MatheoMALLE's GitHub Stats](https://readme-stats-github.pages.dev/api?username=MatheoMALLE&theme=shadow)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE&theme=shadow&layout=compact)
-
-![MatheoMALLE's GitHub Stats](https://readme-stats-github.pages.dev/api?username=MatheoMALLE&show_icons=true&icon_color=0077B5&title_color=0077B5&text_color=333&bg_color=b0f2b6&hide_border=true)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE&layout=compact&title_color=0077B5&text_color=333&bg_color=b0f2b6&hide_border=true)
 
 ### 📫 How to reach me
 <p align="center">
