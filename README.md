@@ -4,6 +4,8 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 ### 🧰 My Skills
 ![Python](https://img.shields.io/badge/Python-b0f2b6?style=for-the-badge&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/C-b0f2b6?style=for-the-badge&logo=C)  
+![Java](https://img.shields.io/badge/C-b0f2b6?style=for-the-badge&logo=Java)  
+![R](https://img.shields.io/badge/C-b0f2b6?style=for-the-badge&logo=R)  
 ![linux](https://img.shields.io/badge/linux-b0f2b6?style=for-the-badge&logo=linux)&nbsp;
 ![shell](https://img.shields.io/badge/shell-b0f2b6?style=for-the-badge&logo=gnubash)&nbsp;
 ![git](https://img.shields.io/badge/git-b0f2b6?style=for-the-badge&logo=git)&nbsp;
