@@ -21,7 +21,17 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 ![MatheoMALLE's GitHub Stats](https://readme-stats-github.pages.dev/api?username=MatheoMALLE&theme=transparent)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE&theme=transparent)
 
-![MatheoMALLE's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheoMALLE&show_icons=true&theme=transparent)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MatheoMALLE&show_icons=true&theme=transparent"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=transparent&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 ### 📫 How to reach me
 <p align="center">
