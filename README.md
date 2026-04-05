@@ -23,14 +23,14 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MatheoMALLE&show_icons=true&theme=transparent"
+    srcset="https://readme-stats-github.pages.dev/api?username=MatheoMALLE&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=transparent&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://readme-stats-github.pages.dev/api?username=MatheoMALLE&show_icons=true&bg_color=ffffff&title_color=000000&text_color=000000&icon_color=000000"
+    media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://readme-stats-github.pages.dev/api?username=MatheoMALLE&show_icons=true" />
 </picture>
 
 ### 📫 How to reach me
