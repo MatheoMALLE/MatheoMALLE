@@ -18,8 +18,8 @@ As a first-year engineering student at CY Tech, I'm specialising in computer eng
 ![apache](https://img.shields.io/badge/apache-b0f2b6?style=for-the-badge&logo=apache)&nbsp;
 
 ### ⚙️ Github statistic
-![MatheoMALLE's GitHub Stats](https://readme-stats-github.pages.dev/api?username=MatheoMALLE&theme=shadow)
-![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE&theme=shadow)
+![MatheoMALLE's GitHub Stats](https://readme-stats-github.pages.dev/api?username=MatheoMALLE&theme=transparent)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE&theme=transparent)
 
 ![MatheoMALLE's GitHub Stats](https://readme-stats-github.pages.dev/api?username=MatheoMALLE)
 ![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=MatheoMALLE)
